@@ -2,15 +2,15 @@
 <?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <atom:link href="olenWintermere:t34ch3v3ryth1ngy0ukn0w@ftp://72.221.44.54:21/feed.rss" rel="self" type="application/rss+xml" />
+  <atom:link href="ftp://olenWintermere:t34ch3v3ryth1ngy0ukn0w@72.221.44.54:21/feed.rss" rel="self" type="application/rss+xml" />
   <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
   <title>Mysteries of Imraiel</title>
   <lastBuildDate>Tue, 18 May 2021 13:00:00 GMT</lastBuildDate>
-  <link>olenWintermere:t34ch3v3ryth1ngy0ukn0w@ftp://72.221.44.54:21/feed.rss</link>
+  <link>ftp://olenWintermere:t34ch3v3ryth1ngy0ukn0w@72.221.44.54:21/feed.rss</link>
   <language>en-us</language>
   <copyright>© 2021 BotM's Up Productions</copyright>
   <itunes:subtitle><![CDATA[It's yours now.]]></itunes:subtitle>
-  <itunes:image href="olenWintermere:t34ch3v3ryth1ngy0ukn0w@ftp://72.221.44.54:21/pcArt.jpg"/>
+  <itunes:image href="ftp://olenWintermere:t34ch3v3ryth1ngy0ukn0w@72.221.44.54:21/pcArt.jpg"/>
   <itunes:author>BotM's Up Productions</itunes:author>
   <itunes:summary><![CDATA[It's yours now.]]></itunes:summary>
   <itunes:type>episodic</itunes:type>
@@ -28,15 +28,35 @@
 <itunes:summary>Olen remembers how he came to the library as he goes about a normal day as head librarian.</itunes:summary>
 <content:encoded><![CDATA[Olen remembers how he came to the library as he goes about a normal day as head librarian.]]></content:encoded>
 
-<guid isPermaLink="true">olenWintermere:t34ch3v3ryth1ngy0ukn0w@ftp://72.221.44.54:21/C02E00A_OlenWintermere.mp3</guid>
+<guid isPermaLink="true">ftp://olenWintermere:t34ch3v3ryth1ngy0ukn0w@72.221.44.54:21/C02E00A_OlenWintermere.mp3</guid>
 <pubDate>Sun, 2 May 2021 00:00:00 -0500</pubDate>
 <itunes:duration>02:01:59</itunes:duration>
-<enclosure url="olenWintermere:t34ch3v3ryth1ngy0ukn0w@ftp://72.221.44.54:21/C02E00A_OlenWintermere.mp3" length="117121574" type="audio/mpeg" />
+<enclosure url="ftp://olenWintermere:t34ch3v3ryth1ngy0ukn0w@72.221.44.54:21/C02E00A_OlenWintermere.mp3" length="117121574" type="audio/mpeg" />
 
 <itunes:season>0</itunes:season>
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:explicit>yes</itunes:explicit>
-<itunes:image href="olenWintermere:t34ch3v3ryth1ngy0ukn0w@ftp://72.221.44.54:21/pcArt.png"/>
+<itunes:image href="ftp://olenWintermere:t34ch3v3ryth1ngy0ukn0w@72.221.44.54:21/pcArt.png"/>
+<itunes:author>BotM's Up Productions</itunes:author>
+</item>
+
+    <item>
+<itunes:title>Prologue B: The Sed'Awk</itunes:title>
+<title>Prologue B: The Sed'Awk</title>
+<itunes:episode>2</itunes:episode>
+<description>The goliath brothers Grep and Var Sed'Awk attempt the Summit of Thru-Muthu, and give their final order to their orc clan.</description>
+<itunes:summary>The goliath brothers Grep and Var Sed'Awk attempt the Summit of Thru-Muthu, and give their final order to their orc clan.</itunes:summary>
+<content:encoded><![CDATA[The goliath brothers Grep and Var Sed'Awk attempt the Summit of Thru-Muthu, and give their final order to their orc clan.]]></content:encoded>
+
+<guid isPermaLink="true">ftp://olenWintermere:t34ch3v3ryth1ngy0ukn0w@72.221.44.54:21/C02E00B_SedAwk.mp3</guid>
+<pubDate>Tue, 4 May 2021 00:00:00 -0500</pubDate>
+<itunes:duration>03:00:58</itunes:duration>
+<enclosure url="ftp://olenWintermere:t34ch3v3ryth1ngy0ukn0w@72.221.44.54:21/C02E00B_SedAwk.mp3" length="173739832" type="audio/mpeg" />
+
+<itunes:season>0</itunes:season>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="ftp://olenWintermere:t34ch3v3ryth1ngy0ukn0w@72.221.44.54:21/pcArt.png"/>
 <itunes:author>BotM's Up Productions</itunes:author>
 </item>
   </channel>
